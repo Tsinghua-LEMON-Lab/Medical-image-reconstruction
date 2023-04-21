@@ -2,7 +2,7 @@
 
 This is the raw data and core code of the article *Energy-efficient high-fidelity image reconstruction with memristor arrays for medical diagnosis*, which is published on ***Nature Communications*** with DOI: https://doi.org/10.1038/s41467-023-38021-7. If you want to use this repository, please include the following citations:
 
-> Zhao, Han, et al., Energy-efficient high-fidelity image reconstruction with memristor arrays for medical diagnosis, *Nature Communications*, 2023
+> Zhao, H., Liu, Z., Tang, J. et al. Energy-efficient high-fidelity image reconstruction with memristor arrays for medical diagnosis. Nat Commun 14, 2276 (2023).
 
 ---
 
